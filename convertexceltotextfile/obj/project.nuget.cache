@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JulWVQIQRH9mjfmnNRuiWXU/MS6FZaa2OGmjyGIMwDoOGLsUMSvxsK89DYM+WJRvAn6CQfHZ6K70OAr7iOJXgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\Visual Studio 2019\\Projects\\simpleapps\\convertexceltotextfile\\convertexceltotextfile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\bin\Debug\netcoreapp3.1\convertexceltotextfile.exe
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\bin\Debug\netcoreapp3.1\convertexceltotextfile.deps.json
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\bin\Debug\netcoreapp3.1\convertexceltotextfile.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\bin\Debug\netcoreapp3.1\convertexceltotextfile.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\bin\Debug\netcoreapp3.1\convertexceltotextfile.dll
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\bin\Debug\netcoreapp3.1\convertexceltotextfile.pdb
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\bin\Debug\netcoreapp3.1\ExcelDataReader.DataSet.dll
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\obj\Debug\netcoreapp3.1\convertexceltotextfile.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\obj\Debug\netcoreapp3.1\convertexceltotextfile.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\obj\Debug\netcoreapp3.1\convertexceltotextfile.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\obj\Debug\netcoreapp3.1\convertexceltotextfile.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\obj\Debug\netcoreapp3.1\convertexceltotextfile.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\obj\Debug\netcoreapp3.1\convertexceltotextfile.dll
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\obj\Debug\netcoreapp3.1\convertexceltotextfile.pdb
+C:\Users\user\Documents\Visual Studio 2019\Projects\simpleapps\convertexceltotextfile\obj\Debug\netcoreapp3.1\convertexceltotextfile.genruntimeconfig.cache
